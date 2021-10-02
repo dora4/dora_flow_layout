@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<dora.widget.DoraFlowLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签1" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签2" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签3" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签4" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签5" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签6" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签7" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签8" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签9" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签10" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签11" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签12" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签13" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签14" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签15" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签16" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签17" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签18" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签19" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签20" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签21" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签22" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签23" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签24" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签25" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签26" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签27" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签28" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签29" />
+
+    <TextView
+        style="@style/DoraFlowLayoutStyle" android:text="标签30" />
+</dora.widget.DoraFlowLayout>
